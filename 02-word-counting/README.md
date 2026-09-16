@@ -103,12 +103,14 @@ Reflect on your process of word counting and consider the following questions (d
 ### Add a link to your API / data source here
 
 - Name - [Data Source](url)
+- Ran - [Doodle Dataset] (https://github.com/googlecreativelab/quickdraw-dataset)
 
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [what is the title of your assignment?](url)
+- Ran - [The Little Mermaid] (https://app.notion.com/p/Week-2-3d6c2894908d809190d3c92032d978b9?)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
